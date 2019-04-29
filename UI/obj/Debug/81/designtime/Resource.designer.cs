@@ -2231,10 +2231,22 @@ namespace UI
 			public const int avd_show_password = 2131296341;
 			
 			// aapt resource value: 0x7F010002
-			public const int background = 2130771970;
+			public const int backBtn = 2130771970;
 			
 			// aapt resource value: 0x7F010003
-			public const int coins = 2130771971;
+			public const int background = 2130771971;
+			
+			// aapt resource value: 0x7F010004
+			public const int btn = 2130771972;
+			
+			// aapt resource value: 0x7F010005
+			public const int cameraBtn = 2130771973;
+			
+			// aapt resource value: 0x7F010006
+			public const int clothing2 = 2130771974;
+			
+			// aapt resource value: 0x7F010007
+			public const int coins = 2130771975;
 			
 			// aapt resource value: 0x7F090056
 			public const int design_bottom_navigation_item_background = 2131296342;
@@ -2254,17 +2266,32 @@ namespace UI
 			// aapt resource value: 0x7F09005B
 			public const int design_snackbar_background = 2131296347;
 			
-			// aapt resource value: 0x7F010004
-			public const int exp = 2130771972;
+			// aapt resource value: 0x7F010008
+			public const int doenBtn2 = 2130771976;
 			
-			// aapt resource value: 0x7F010005
-			public const int findFriendIcon = 2130771973;
+			// aapt resource value: 0x7F010009
+			public const int dottedLine = 2130771977;
 			
-			// aapt resource value: 0x7F010006
-			public const int heartIcon = 2130771974;
+			// aapt resource value: 0x7F010010
+			public const int downBtn = 2130771984;
 			
-			// aapt resource value: 0x7F010007
-			public const int moneyIcon = 2130771975;
+			// aapt resource value: 0x7F010011
+			public const int exp = 2130771985;
+			
+			// aapt resource value: 0x7F010012
+			public const int feedMeIcon = 2130771986;
+			
+			// aapt resource value: 0x7F010013
+			public const int findFriendIcon = 2130771987;
+			
+			// aapt resource value: 0x7F010014
+			public const int heartIcon = 2130771988;
+			
+			// aapt resource value: 0x7F010015
+			public const int littleBin = 2130771989;
+			
+			// aapt resource value: 0x7F010016
+			public const int moneyIcon = 2130771990;
 			
 			// aapt resource value: 0x7F09005C
 			public const int navigation_empty_icon = 2131296348;
@@ -2305,14 +2332,20 @@ namespace UI
 			// aapt resource value: 0x7F09000C
 			public const int notify_panel_notification_icon_bg = 2131296268;
 			
-			// aapt resource value: 0x7F010008
-			public const int progressIcon = 2130771976;
+			// aapt resource value: 0x7F010017
+			public const int photoframe = 2130771991;
 			
-			// aapt resource value: 0x7F010009
-			public const int redHeartIcon = 2130771977;
+			// aapt resource value: 0x7F010018
+			public const int progressIcon = 2130771992;
 			
-			// aapt resource value: 0x7F010010
-			public const int shopIcon = 2130771984;
+			// aapt resource value: 0x7F010019
+			public const int redHeartIcon = 2130771993;
+			
+			// aapt resource value: 0x7F010020
+			public const int shopIcon = 2130772000;
+			
+			// aapt resource value: 0x7F010021
+			public const int starIcon = 2130772001;
 			
 			// aapt resource value: 0x7F090069
 			public const int tooltip_frame_dark = 2131296361;
@@ -2411,6 +2444,12 @@ namespace UI
 			// aapt resource value: 0x7F0C001A
 			public const int bottom = 2131492890;
 			
+			// aapt resource value: 0x7F020016
+			public const int btnFeed = 2130837526;
+			
+			// aapt resource value: 0x7F020014
+			public const int btnFindFriend = 2130837524;
+			
 			// aapt resource value: 0x7F0C001B
 			public const int buttonPanel = 2131492891;
 			
@@ -2486,11 +2525,14 @@ namespace UI
 			// aapt resource value: 0x7F0C0009
 			public const int forever = 2131492873;
 			
+			// aapt resource value: 0x7F020010
+			public const int frameLayout1 = 2130837520;
+			
+			// aapt resource value: 0x7F020006
+			public const int frameLayout2 = 2130837510;
+			
 			// aapt resource value: 0x7F0C0034
 			public const int ghost_view = 2131492916;
-			
-			// aapt resource value: 0x7F020005
-			public const int heartIcon = 2130837509;
 			
 			// aapt resource value: 0x7F0C0035
 			public const int home = 2131492917;
@@ -2504,17 +2546,17 @@ namespace UI
 			// aapt resource value: 0x7F0C0038
 			public const int image = 2131492920;
 			
+			// aapt resource value: 0x7F020017
+			public const int imageButtonShop = 2130837527;
+			
+			// aapt resource value: 0x7F020005
+			public const int imageView2 = 2130837509;
+			
 			// aapt resource value: 0x7F020011
-			public const int imageButton1 = 2130837521;
+			public const int imageView3 = 2130837521;
 			
-			// aapt resource value: 0x7F020009
-			public const int imageButtonFeed = 2130837513;
-			
-			// aapt resource value: 0x7F020010
-			public const int imageButtonShop = 2130837520;
-			
-			// aapt resource value: 0x7F020002
-			public const int imageView1 = 2130837506;
+			// aapt resource value: 0x7F020012
+			public const int imageView4 = 2130837522;
 			
 			// aapt resource value: 0x7F0C000C
 			public const int info = 2131492876;
@@ -2528,6 +2570,9 @@ namespace UI
 			// aapt resource value: 0x7F0C003C
 			public const int largeLabel = 2131492924;
 			
+			// aapt resource value: 0x7F020015
+			public const int lblFeed = 2130837525;
+			
 			// aapt resource value: 0x7F0C003D
 			public const int left = 2131492925;
 			
@@ -2536,6 +2581,21 @@ namespace UI
 			
 			// aapt resource value: 0x7F0C000F
 			public const int line3 = 2131492879;
+			
+			// aapt resource value: 0x7F020002
+			public const int linearLayout1 = 2130837506;
+			
+			// aapt resource value: 0x7F020003
+			public const int linearLayout2 = 2130837507;
+			
+			// aapt resource value: 0x7F020004
+			public const int linearLayout3 = 2130837508;
+			
+			// aapt resource value: 0x7F020009
+			public const int linearLayout4 = 2130837513;
+			
+			// aapt resource value: 0x7F020013
+			public const int linearLayout5 = 2130837523;
 			
 			// aapt resource value: 0x7F0C0040
 			public const int listMode = 2131492928;
@@ -2557,9 +2617,6 @@ namespace UI
 			
 			// aapt resource value: 0x7F0C0046
 			public const int multiply = 2131492934;
-			
-			// aapt resource value: 0x7F020006
-			public const int myImageViewText = 2130837510;
 			
 			// aapt resource value: 0x7F0C0047
 			public const int navigation_header_container = 2131492935;
@@ -2592,16 +2649,7 @@ namespace UI
 			public const int pin = 2131492944;
 			
 			// aapt resource value: 0x7F020007
-			public const int progress = 2130837511;
-			
-			// aapt resource value: 0x7F020003
-			public const int progress1 = 2130837507;
-			
-			// aapt resource value: 0x7F020008
-			public const int progress2 = 2130837512;
-			
-			// aapt resource value: 0x7F020004
-			public const int progress3 = 2130837508;
+			public const int progress1 = 2130837511;
 			
 			// aapt resource value: 0x7F0C0051
 			public const int progress_circular = 2131492945;
@@ -2740,6 +2788,9 @@ namespace UI
 			
 			// aapt resource value: 0x7F0C007C
 			public const int textSpacerNoTitle = 2131492988;
+			
+			// aapt resource value: 0x7F020008
+			public const int textView = 2130837512;
 			
 			// aapt resource value: 0x7F0C007D
 			public const int text_input_password_toggle = 2131492989;
@@ -2976,6 +3027,9 @@ namespace UI
 			
 			// aapt resource value: 0x7F030003
 			public const int feedMe = 2130903043;
+			
+			// aapt resource value: 0x7F030004
+			public const int findFriend = 2130903044;
 			
 			// aapt resource value: 0x7F0F0001
 			public const int notification_action = 2131689473;

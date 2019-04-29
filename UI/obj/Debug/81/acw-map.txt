@@ -1,3 +1,6 @@
+UI.findFriend, UI;md552918789baac3011a887d5d749514310.findFriend
+UI.findFriend;md552918789baac3011a887d5d749514310.findFriend
+ui.findFriend;md552918789baac3011a887d5d749514310.findFriend
 UI.MainActivity, UI;md552918789baac3011a887d5d749514310.MainActivity
 UI.MainActivity;md552918789baac3011a887d5d749514310.MainActivity
 ui.MainActivity;md552918789baac3011a887d5d749514310.MainActivity

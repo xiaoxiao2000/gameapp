@@ -480,11 +480,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\L31408\\Desktop\\UI - Copy\\UI\\UI.csproj",
+      "projectUniqueName": "C:\\Users\\L31408\\Desktop\\UI - Copy\\gameapp\\UI\\UI.csproj",
       "projectName": "UI",
-      "projectPath": "C:\\Users\\L31408\\Desktop\\UI - Copy\\UI\\UI.csproj",
+      "projectPath": "C:\\Users\\L31408\\Desktop\\UI - Copy\\gameapp\\UI\\UI.csproj",
       "packagesPath": "C:\\Users\\L31408\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\L31408\\Desktop\\UI - Copy\\UI\\obj\\",
+      "outputPath": "C:\\Users\\L31408\\Desktop\\UI - Copy\\gameapp\\UI\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
